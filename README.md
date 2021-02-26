@@ -22,6 +22,9 @@ Your browser should open with the page loading. Wait for the bundler to finish b
 - you can browse through saved images
 - you can click on an image to see it full scale
 - you can delete processed images
+- you can logout
+
+Session storage is cleaned every 30 mins, resulting in an automatic logout
 
 ## Used technologies:
 ### Backend:
