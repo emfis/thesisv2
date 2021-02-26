@@ -20,6 +20,7 @@ Your browser should open with the page loading. Wait for the bundler to finish b
 - full login authentication and authorisation via browser session
 - you can pick and edit image before sending it for processing to backend
 - you can browse through saved images
+- you can click on an image to see it full scale
 - you can delete processed images
 
 ## Used technologies:
